@@ -1,8 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="static" type="StardustRunConfiguration" factoryName="save-as-zip">
-    <option name="folderPath" value="$PROJECT_DIR$" />
-    <option name="instanceId" value="darkCoffin" />
-    <option name="instanceName" value="暗柩之上" />
-    <method v="2" />
-  </configuration>
-</component>

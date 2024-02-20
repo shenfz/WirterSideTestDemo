@@ -28,9 +28,7 @@ Some introductory information.
    ```bash
     run this --that
    ```
-
-2. Step with an image
-   ![](image.png)
+ 
 
 <!-- The 'src' attribute should contain the name of an image from the '/images' folder in your project -->
 
