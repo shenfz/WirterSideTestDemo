@@ -1,4 +1,8 @@
-# 使用wrideside 
+# writerSide 
+> 部署成github pages 
 
-## 命令
- *  在Writerside工具窗口中上方有个生成网站按钮，单击”Open in Browser“或“Save as ZIP Archive”。
+## generate command
+ * Save as ZIP Archive
+
+## 示例地址
+* https://shenfz.github.io/WirterSideTestDemo

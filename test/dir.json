@@ -1,0 +1,29 @@
+{
+  "text": "backend",
+  "children":[
+    {"text": "cmd"},
+    {"text": "api"},
+    {"text": "conf"},
+    {
+      "text": "global",
+      "children":[
+        {"text": "constants"}
+      ]
+    },
+    {"text": "middleware"},
+    {"text": "log"},
+    {"text": "router"},
+    {
+      "text": "service",
+      "children": [
+        {"text": "dto"}
+      ]
+    },
+    {"text": "utils"},
+    {"text": "pkgs"},
+    {"text": "internal"}
+  ]
+
+
+
+}
