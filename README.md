@@ -1,8 +1,9 @@
 # writerSide 
-> 部署成github pages 
+> - record some important address 
+> - use github pages 
 
-## generate command
- * Save as ZIP Archive
-
-## 示例地址
+## Pages
 * https://shenfz.github.io/WirterSideTestDemo
+
+## TODO
+* [ ] use github action 
