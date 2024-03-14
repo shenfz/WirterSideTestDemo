@@ -3,7 +3,7 @@
 > - use github pages 
 
 ## Pages
-* https://shenfz.github.io/WirterSideTestDemo
+* https://shenfz.github.io/WriterSideTestDemo
 
 ## TODO
 * [ ] use github action 
