@@ -9,10 +9,11 @@
     <toc-element topic="starter-topic.md">
     </toc-element>
     <toc-element topic="golang.md">
+        <toc-element topic="FrameWorkDocs.md"/>
         <toc-element topic="blogs-website.md"/>
         <toc-element topic="Go101.md"/>
     </toc-element>
-    <toc-element topic="github.md"/>
+    <toc-element topic="docker.md"/>
     <toc-element topic="microService.md"/>
     <toc-element topic="blender.md"/>
     <toc-element topic="SecondPart.md">
@@ -20,9 +21,8 @@
     <toc-element topic="FirstPart.md">
     </toc-element>
     <toc-element topic="Empty-MD-Topic.md"/>
-    <toc-element topic="Overview.md"/>
     <toc-element topic="Redis.md"/>
     <toc-element topic="Linux.md"/>
     <toc-element topic="windows.md"/>
-    <toc-element topic="Pr.md"/>
+    <toc-element topic="wechat.md"/>
 </instance-profile>

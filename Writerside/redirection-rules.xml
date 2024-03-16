@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="6cfe6034">
+        <description>Created after removal of "Coding resources" from 暗柩之上</description>
+        <accepts>github.html</accepts>
+    </rule>
+    <rule id="284df3f">
+        <description>Created after removal of "Edit Skills" from 暗柩之上</description>
+        <accepts>Pr.html</accepts>
+    </rule>
+    <rule id="10dcda70">
+        <description>Created after removal of "在看" from 暗柩之上</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+</rules>
